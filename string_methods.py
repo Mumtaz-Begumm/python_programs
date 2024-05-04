@@ -1,0 +1,21 @@
+s="4python programming"
+#print(s.capitalize())
+#print(s.isupper())
+#print(s.islower())
+#print(s.isalpha())
+#print(s.isnumeric())
+#print(s.isspace())
+#print(s.endswith('g'))
+#print(s.atartswith('n',,6,9))
+#print(s.startsswith('4p'))
+#print(s.index('p'))
+#print(s.rindex('p'))
+#print(s.find('p'))
+#print(s.count('p'))
+#print(s.split('n'))
+#(s.split())
+#print(s.partition('n'))
+#a=['1','2','3']
+#a=" ".join(a)
+#rint(a,type(a),a[0])
+
